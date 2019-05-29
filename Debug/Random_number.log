@@ -1,0 +1,3 @@
+﻿  Random_number.cpp
+E:\Cplus\Numbers\Random_number\Random_number.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random_number.vcxproj -> E:\Cplus\Numbers\Random_number\Debug\Random_number.exe
